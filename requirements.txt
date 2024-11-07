@@ -1,0 +1,6 @@
+botbuilder-core>=4.7.0
+aiohttp
+Flask
+tabulate
+openai
+azure-core
