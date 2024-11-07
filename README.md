@@ -1,10 +1,4 @@
-<<<<<<< HEAD
-# Retail_Chatbot
-Building Chatbot for Laptop store
-=======
-<<<<<<< HEAD
-# Retail_Chatbot
-Building Chatbot for Laptop store
+Building Chatbot for Laptop store/ E-commerce
 =======
 
 ## Chatbot description
